@@ -1,14 +1,21 @@
 
-# Ateneo de Davao University 
-## School of Education
+# Shiver
+One to two paragraph that describes the purpose of the system and some details of the system
 
-<img src = "https://user-images.githubusercontent.com/93243154/209153812-aaa310c5-5d85-4c23-b406-2b42a83ff319.png" style = "width:60%; height:60%;">
+
 
 # Table of Contents
+- [The Organization]("ateneo-de-davao-university")
 - [Frameworks]("frameworks")
 - [The System: Fin]("name-of-system")
 - [Possible Subsystems]("list-of-subsystems")
 - [Sample Diagram]("diagram-for-reference")
+
+
+## Ateneo de Davao University 
+## School of Education
+<img src = "https://user-images.githubusercontent.com/93243154/209153812-aaa310c5-5d85-4c23-b406-2b42a83ff319.png" style = "width:60%; height:60%;">
+
 
 ## Frameworks
 
@@ -18,15 +25,8 @@
 ### [JetStream](https://jetstream.laravel.com/2.x/introduction.html)
 ![jetstream](https://user-images.githubusercontent.com/93243154/208945415-4189c4c1-0ae9-409d-a972-bd8c2b193a6f.png)
 
-
-
 ### [MySQL](https://www.mysql.com/)
 ![MySQL](https://user-images.githubusercontent.com/93243154/208944185-00d3b32a-f85c-4d8b-8233-ef55b7ecd746.png)
-
-
-## Fins
-
-One to two paragraph that describes the purpose of the system and some details of the system
 
 ## List of Subsystems
 
