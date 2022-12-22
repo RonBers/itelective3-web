@@ -13,9 +13,8 @@ One to two paragraph that describes the purpose of the system and some details o
 - [Sample Diagram](#diagram)
 
 
-## Ateneo de Davao University <a name = "org"></a>
-## School of Education
-<img src = "https://user-images.githubusercontent.com/93243154/209153812-aaa310c5-5d85-4c23-b406-2b42a83ff319.png" style = "width:60%; height:60%;">
+## Ateneo de Davao University - School of Education <a name = "org"></a>
+<img src = "https://user-images.githubusercontent.com/93243154/209153812-aaa310c5-5d85-4c23-b406-2b42a83ff319.png" style = "width:30%; height:30%;">
 
 
 ## Frameworks  <a name = "framework"></a>
