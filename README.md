@@ -1,6 +1,6 @@
 
 # Shiver
-One to two paragraph that describes the purpose of the system and some details of the system
+Shiver is a **_simple student assessment management system_** designed to let students monitor their grades for the semester. Additionally, the respective teachers for each course have access to the grades of their students. Teachers can monitor, make changes, finalize, and submit the grades of their respective students through the system.
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -13,20 +13,21 @@ One to two paragraph that describes the purpose of the system and some details o
 - [Sample Diagram](#diagram)
 
 
-## Ateneo de Davao University - School of Education <a name = "org"></a>
-<img src = "https://user-images.githubusercontent.com/93243154/209153812-aaa310c5-5d85-4c23-b406-2b42a83ff319.png" style = "width:30%; height:30%;">
+## Ateneo de Davao University - School of Education <a name = "org"></a> 
+<img src = "https://user-images.githubusercontent.com/93243154/209153812-aaa310c5-5d85-4c23-b406-2b42a83ff319.png" style = "width:16%; height:16%;">
 
 
-## Frameworks  <a name = "framework"></a>
+## Stack  <a name = "framework"></a>
 
-### [Laravel](https://laravel.com/)
-<img src = "https://user-images.githubusercontent.com/93243154/208943068-fd61e4b6-0bde-4b09-a1b9-34150e2fb89b.png" style = "width:500px; height:500px;">
+### [Laravel](https://laravel.com/) 
+<img src = "https://user-images.githubusercontent.com/93243154/208943068-fd61e4b6-0bde-4b09-a1b9-34150e2fb89b.png" style = "width:16%; height:16%;">
 
 ### [JetStream](https://jetstream.laravel.com/2.x/introduction.html)
-![jetstream](https://user-images.githubusercontent.com/93243154/208945415-4189c4c1-0ae9-409d-a972-bd8c2b193a6f.png)
+<img src = "https://user-images.githubusercontent.com/93243154/208945415-4189c4c1-0ae9-409d-a972-bd8c2b193a6f.png" style = "width:20%; height:20%;">
 
 ### [MySQL](https://www.mysql.com/)
-![MySQL](https://user-images.githubusercontent.com/93243154/208944185-00d3b32a-f85c-4d8b-8233-ef55b7ecd746.png)
+<img src = "https://user-images.githubusercontent.com/93243154/208944185-00d3b32a-f85c-4d8b-8233-ef55b7ecd746.png" style = "width:20%; height:20%;">
+
 
 ## List of Subsystems  <a name = "subsystems"></a>
 
