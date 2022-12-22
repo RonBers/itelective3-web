@@ -4,6 +4,12 @@
 
 <img src = "https://user-images.githubusercontent.com/93243154/208938578-cb80a5ee-29a9-4988-8b91-13c5d05b1f5a.jpeg" style = "width:100%; height:700px;">
 
+## Table of Contents
+- [Frameworks]("Frameworks")
+- [The System: Fin]("Name-of-System")
+- [Possible Subsystems]("List-of-Subsystems")
+- [Sample Diagram]("Diagram-for-Reference")
+
 ## Frameworks
 
 ### [Laravel](https://laravel.com/)
