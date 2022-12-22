@@ -24,7 +24,7 @@
 ![MySQL](https://user-images.githubusercontent.com/93243154/208944185-00d3b32a-f85c-4d8b-8233-ef55b7ecd746.png)
 
 
-# Name of System
+# Fins
 
 One to two paragraph that describes the purpose of the system and some details of the system
 
