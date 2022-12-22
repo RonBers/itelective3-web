@@ -2,7 +2,8 @@
 # Shiver
 One to two paragraph that describes the purpose of the system and some details of the system
 
-
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 # Table of Contents
 - [The Organization](#org)
