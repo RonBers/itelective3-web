@@ -4,6 +4,7 @@ One to two paragraph that describes the purpose of the system and some details o
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![JetStream](https://user-images.githubusercontent.com/93243154/209178391-f307f3a9-f6ba-4aba-98fe-f766bf4a4951.png?style=flat-square&logo=appveyor)
 
 # Table of Contents
 - [The Organization](#org)
