@@ -48,7 +48,7 @@ The following courses fall under this school:
 * Student Search Module
 * Attendance Module
 * Grades Display Module
-* Edit, Finalize, Submit Grades Module (Limited to users who are professors)
+* Edit, Finalize, Submit Grades System (Limited to users who are professors)
 * Report Card Module
 * Account Balance Module
  
