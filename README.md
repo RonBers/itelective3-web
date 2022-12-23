@@ -1,8 +1,8 @@
 ![Untitled_Artwork](https://user-images.githubusercontent.com/93243154/209270611-b224589b-6cf6-4386-8ff8-ae284efe6979.png)
 # Shiver
-Shiver is a **_simple student assessment management system_** for the students of Ateneo de Davao Univesity - School of Education. It designed to let the students monitor their grades for the semester. Additionally, the respective teachers for each course have access to the grades of their students. Teachers can monitor, make changes, finalize, and submit the grades of their respective students through the system. 
+Shiver is a **_simple student assessment management system_** for the students of Ateneo de Davao Univesity - School of Education. It's designed to let the students monitor their semester grades, account balance, registration information, curriculum, professor and school information, class offerings, and general semestral schedule, to name a few. Additionally, the respective teachers for each course have access to their student's grades. Teachers can monitor, make changes, finalize, submit, and distribute their students' grades through the system. They can also easily search for a student with a search function that automates the whole process.
 
-The term _shiver_ is used to call a group of sharks in the wild.
+The term _shiver_ is used to call a group of sharks in the wild. It is also what students feel when they are about to see their grades and fees.
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -11,7 +11,7 @@ The term _shiver_ is used to call a group of sharks in the wild.
 # Table of Contents
 - [The Organization](#org)
 - [Tools](#framework)
-- [Possible Subsystems](#subsystems)
+- [Subsystems](#subsystems)
 - [Sample Diagram](#diagram)
 
 
@@ -31,7 +31,17 @@ The term _shiver_ is used to call a group of sharks in the wild.
 <img src = "https://user-images.githubusercontent.com/93243154/208944185-00d3b32a-f85c-4d8b-8233-ef55b7ecd746.png" style = "width:20%; height:20%;">
 
 
-## List of Subsystems  <a name = "subsystems"></a>
+## List of Subsystems/Modules  <a name = "subsystems"></a>
+* Login Module
+* Registration Module
+* Course Module
+* Student Search Module
+* Attendance Module
+* Grades Display Module
+* Edit, Finalize, Submit Grades Module (Limited to users who are professors)
+* Report Card Module
+* Account Balance Module
+ 
 
 ## Diagram for Reference  <a name = "diagram"></a>
 ![image](https://user-images.githubusercontent.com/93243154/208945919-cbbb5138-642b-4fb0-90a3-18f99d0ba781.png)
