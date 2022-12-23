@@ -19,7 +19,7 @@ The term _shiver_ is used to call a group of sharks in the wild.
 <img src = "https://user-images.githubusercontent.com/93243154/209153812-aaa310c5-5d85-4c23-b406-2b42a83ff319.png" style = "width:16%; height:16%;">
 
 
-## Stack  <a name = "framework"></a>
+## Tools  <a name = "framework"></a>
 
 ### [Laravel](https://laravel.com/) 
 <img src = "https://user-images.githubusercontent.com/93243154/208943068-fd61e4b6-0bde-4b09-a1b9-34150e2fb89b.png" style = "width:16%; height:16%;">
