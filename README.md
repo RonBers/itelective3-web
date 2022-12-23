@@ -1,6 +1,8 @@
-
+![Untitled_Artwork](https://user-images.githubusercontent.com/93243154/209270611-b224589b-6cf6-4386-8ff8-ae284efe6979.png)
 # Shiver
-Shiver is a **_simple student assessment management system_** designed to let students monitor their grades for the semester. Additionally, the respective teachers for each course have access to the grades of their students. Teachers can monitor, make changes, finalize, and submit the grades of their respective students through the system.
+Shiver is a **_simple student assessment management system_** for the students of Ateneo de Davao Univesity - School of Education. It designed to let the students monitor their grades for the semester. Additionally, the respective teachers for each course have access to the grades of their students. Teachers can monitor, make changes, finalize, and submit the grades of their respective students through the system. 
+
+The term _shiver_ is used to call a group of sharks in the wild.
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -8,7 +10,7 @@ Shiver is a **_simple student assessment management system_** designed to let st
 
 # Table of Contents
 - [The Organization](#org)
-- [Frameworks](#framework)
+- [Tools](#framework)
 - [Possible Subsystems](#subsystems)
 - [Sample Diagram](#diagram)
 
