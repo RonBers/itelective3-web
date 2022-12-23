@@ -17,7 +17,17 @@ The term _shiver_ is used to call a group of sharks in the wild. It is also what
 
 ## Ateneo de Davao University - School of Education <a name = "org"></a> 
 <img src = "https://user-images.githubusercontent.com/93243154/209153812-aaa310c5-5d85-4c23-b406-2b42a83ff319.png" style = "width:16%; height:16%;">
+The School of Education is a unit under the Ateneo de Davao University, and it specializes in training future teachers who are to be agents of transformative education. Each program is created with the development of our students' critical thinking and teaching skills in mind. 
+<p> </p>
+The following courses fall under this school:
+<p> </p>
 
+* __BECE__ - Bachelor of Early Childhood Education
+* __BEED__ - Bachelor of Elementary Education
+* __BSED-ENGLISH__ - Bachelor of Secondary Education Major in English
+* __BSED-MATH__ - Bachelor of Secondary Education Major in Mathematics
+* __BSED-SCIENCE__ - Bachelor of Secondary Education Major in Science
+* __BSED-SS__ - Bachelor of Secondary Education Major in Social Studies
 
 ## Tools  <a name = "framework"></a>
 
