@@ -43,14 +43,15 @@ The following courses fall under this school:
 
 ## List of Subsystems/Modules  <a name = "subsystems"></a>
 * Login Module
-* Registration Module
-* Course Module
-* Student Search Module
-* Attendance Module
-* Grades Display Module
-* Edit, Finalize, Submit Grades System (Limited to users who are professors)
-* Report Card Module
-* Account Balance Module
+* Registration System
+  * Course Module
+  * Curriculum Module
+  * Grades Display Module
+  * Report Card Module
+* Student Search System
+* Attendance System
+* Grade Editor System (Limited to users who are professors)
+* Account Balance System
  
 
 ## Diagram for Reference  <a name = "diagram"></a>
